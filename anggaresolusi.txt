@@ -3,5 +3,4 @@ angga resolusi
 - membuat git hub
 - membuat git pakai aplikasi
 - membuat instagram
-- membuat platform
 - membuat training digital

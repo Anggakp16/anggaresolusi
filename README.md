@@ -1,2 +1,2 @@
 # anggaresolusi
-Untuk menyimpan resolusi angga
+Resolusi Angga
